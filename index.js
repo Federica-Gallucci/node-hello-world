@@ -1,1 +1,2 @@
-console.log("Hello World");
+const writeYourPhrase = process.argv[2];
+console.log(writeYourPhrase);
